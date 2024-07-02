@@ -1,0 +1,13 @@
+
+
+p{
+font-size: 120%;
+}
+
+.carousel-item {
+    height: 700px; /* Ajusta la altura según sea necesario */
+    object-fit: cover; /* Recorta la imagen para llenar el contenedor */
+    width: 400%; /* Asegura que la imagen cubra todo el ancho */
+    display: flex;
+}
+
